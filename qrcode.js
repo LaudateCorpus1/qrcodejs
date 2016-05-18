@@ -565,6 +565,7 @@ var QRCode;
 		
 		this._android = _getAndroid();
 		this._el = el;
+		this._el.innerHTML = '';
 		this._oQRCode = null;
 		this._oDrawing = new Drawing(this._el, this._htOption);
 		
