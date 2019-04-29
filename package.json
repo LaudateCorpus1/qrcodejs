@@ -1,6 +1,6 @@
 {
   "name": "qrcodejs",
-  "version": "1.0.0",
+  "version": "1.0.0-discord",
   "description": "QRCode.js is javascript library for making QRCode",
   "main": "index",
   "scripts": {
